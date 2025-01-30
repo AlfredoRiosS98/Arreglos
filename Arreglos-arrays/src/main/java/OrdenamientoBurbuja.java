@@ -26,7 +26,6 @@ public class OrdenamientoBurbuja {
         productos[6] = "Bicicleta Oxford";
 
         //Ordenar valores
-        Arrays.sort(productos);
         //arregloInverso(productos);
 
         //Collections.reverse(Arrays.asList(productos));
