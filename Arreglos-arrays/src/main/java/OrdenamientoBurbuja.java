@@ -25,7 +25,6 @@ public class OrdenamientoBurbuja {
         productos[5] = "Chromecast 4ta Generacion";
         productos[6] = "Bicicleta Oxford";
 
-
         //Ordenar valores
         //arregloInverso(productos);
 
@@ -45,7 +44,7 @@ public class OrdenamientoBurbuja {
         System.out.println("contador = " + contador);
 
         //Imprimir valores con for
-        System.out.println("\n******************** FOR ********************");
+        System.out.println("\n********************  FOR  ********************");
         for(int i = 0; i < total; i++){
             System.out.println("para indice " + i + " : " + productos[i]);
         }
