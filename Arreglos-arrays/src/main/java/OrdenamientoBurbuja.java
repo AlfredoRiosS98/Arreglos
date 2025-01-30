@@ -18,7 +18,7 @@ public class OrdenamientoBurbuja {
 
         //Asignar valores manualmente
         productos[0] = "Kingston Pendrive 64Gb";
-        productos[1] = "Samsung Galaxy";https://github.com/AlfredoRiosS98/Arreglos.git
+        productos[1] = "Samsung Galaxy";
         productos[2] = "Disco duro SS Samsung Externo";
         productos[3] = "Asus NoteBook";
         productos[4] = "MacBook Air";
