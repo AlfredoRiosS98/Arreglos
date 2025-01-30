@@ -25,8 +25,6 @@ public class OrdenamientoBurbuja {
         productos[5] = "Chromecast 4ta Generacion";
         productos[6] = "Bicicleta Oxford";
 
-
-        System.out.println("Prueba de Git......................");
         //Ordenar valores
         //arregloInverso(productos);
 
