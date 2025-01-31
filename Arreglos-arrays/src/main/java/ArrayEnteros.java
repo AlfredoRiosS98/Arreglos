@@ -6,7 +6,8 @@ public class ArrayEnteros {
     public static void main(String[] args) {
 
         int[] numeros = new int[4];
-        
+
+
         //Asignando valores al array
         numeros[0] = 4;
         numeros[1] = 2;

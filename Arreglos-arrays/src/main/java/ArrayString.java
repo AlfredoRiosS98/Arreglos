@@ -16,6 +16,7 @@ public class ArrayString {
         
         //Ordenar valores
         Arrays.sort(productos);
+
         
         //Imprimiendo valores
         System.out.println("productos[0] = " + productos[0]);

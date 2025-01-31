@@ -7,6 +7,7 @@ public class ArrayIteracionInt {
             numeros[k] = k*3;
         }
 
+
         for(int k = 0; k < totalNumeros; k++){
             System.out.println("Numeros = " + numeros[k]);
         }

@@ -17,6 +17,7 @@ public class ArrayIteracionStringInversaMutadas {
         String[] productos = new String[7];
         int total = productos.length;
 
+
         //Asignar valores manualmente
         productos[0] = "Kingston Pendrive 64Gb";
         productos[1] = "Samsung Galaxy";

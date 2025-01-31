@@ -17,6 +17,7 @@ public class ArrayIteracionString {
         //Ordenar valores
         Arrays.sort(productos);
 
+
         //Imprimir valores con for
         System.out.println("\n******************** FOR ********************");
         for(int i = 0; i < total; i++){
