@@ -1,6 +1,6 @@
 public class OrdenamientoBurbujaEnteros {
-    //Con este metodo puedes reutilizarlo para ordenar
-    //todo tipo de datos
+    /*Con este metodo puedes reutilizarlo para ordenar
+    * cualquier tipo de dato */
     public static void sortBurbuja(Object[] arreglo){
         int total = arreglo.length;
         int contador = 0;
