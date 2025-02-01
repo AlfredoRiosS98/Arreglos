@@ -14,9 +14,15 @@ public class ArraysCombinados {
         }
 
         int aux = 0;
-        for(int i = 0; i < b.length; i++){
-            c[aux++] = a[i];
-            c[aux++] = b[i];
+        for(int i = 0; i < b.length; i+=2){
+
+            for(int j = 0; j < 2; j++){
+                c[aux++] = a[i+j];
+            }
+
+            for(int j = 0; j < 2; j++){
+                c[aux++] = b[i+j];
+            }
         }
 
         for(int i = 0; i < c.length; i++){
